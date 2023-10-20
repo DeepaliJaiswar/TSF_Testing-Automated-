@@ -1,6 +1,6 @@
 # TSF_Testing-Automated-
 
-I used Python and selenium for writing test cases and Pycharm to create this Project and I'm thrilled to share it with you all.
+I used Python and Selenium for writing test cases and Pycharm to create this Project 
 
 📺 Full Video on YouTube: https://youtu.be/o7NqxVJehY0
 
